@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
+
 **highpriestgh/highpriestgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently upgrading my skills in data structures and algorithm
+- 🌱 I’m currently learning .Net Microservices, C#, Reactjs, Java, JavaScript, Blazor, MySQL
+- 👯 I’m looking to collaborate on any project i am studying
+- 🤔 I’m looking for help with Open Source Projects
+- 💬 Ask me about anything that has to do with react,C#, and data structures
+- 📫 How to reach me: mobile: +233554075993 email: jnthnlmpty@yahoo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Goals are good for setting a direction, but systems are best for making progress
+
+  #### 𝗦𝘁𝗮𝘁𝘀
+
+![highpriestgh's github stats](https://github-readme-stats.vercel.app/api?username=highpriestgh&show_icons=true&theme=dracula) 
+
